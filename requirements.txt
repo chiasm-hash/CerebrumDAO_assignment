@@ -1,0 +1,13 @@
+os
+requests
+beautifulsoup4
+pandas
+numpy
+jupyter
+selenium
+web3
+matplotlib
+streamlit
+textblob
+wordcloud
+matplotlib.pyplot
